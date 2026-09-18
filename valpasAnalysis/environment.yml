@@ -1,0 +1,10 @@
+name: ylip-valpas-analysis
+channels:
+  - conda-forge
+dependencies:
+  - python=3.14
+  - pip
+  - pip:
+    - pandas==2.3
+    - git+https://github.com/PNNL-Predictive-Phenomics/valpas.git@v1.0.0
+    - jupyter
