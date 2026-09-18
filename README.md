@@ -10,6 +10,9 @@ Scripts for data analysis and generating figures from bioreactor cultivation and
 ---
 
 ## Summary of Files
+### VaLPAS workflow
+
+Located and described in 'valpasAnalysis/' directory. 
 
 ### Notebooks
 Located in `omicAnalysis/analysis/Notebooks/`:
